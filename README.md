@@ -1,5 +1,8 @@
 ## Hi there 👋
 ### I'm Sharon and I'm a Software Developer
+- I'm currently developing research applications using Python for the USGS.
+- I'm using Machine Learning for classifiying satellite imagery.
+
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=2320sharon&theme=blue-green&show_icons=true)](https://github.com/2320sharon/github-readme-stats)
 <!-- [![Sharon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2320sharon&theme=blue-green)](https://github.com/2320sharon/github-readme-stats) -->
 <!--
