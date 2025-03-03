@@ -1,7 +1,10 @@
 ## Hi there 👋
 ### I'm Sharon and I'm a Software Developer
-- I'm currently developing research applications using Python for the USGS.
-- I'm using Machine Learning for classifiying satellite imagery.
+- I'm currently developing python based applications with the USGS that use machine learning models to analyze satellite imagery
+- I developed CoastSeg, a python application that uses machine learning models to extract shoreines from satellite imagery
+- I 💚 python
+- Lately, I've been research pixi and Docker to make research software environments more reprodible
+
 
 <!-- [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=2320sharon&theme=blue-green&show_icons=true)](https://github.com/2320sharon/github-readme-stats) -->
 <!-- [![Sharon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2320sharon&theme=blue-green)](https://github.com/2320sharon/github-readme-stats) -->
