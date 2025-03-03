@@ -1,8 +1,10 @@
 # Hi there 👋
 ## I'm Sharon and I'm a Software Developer
-- I'm currently developing python based applications with the USGS that use machine learning models to analyze satellite imagery
-- I developed CoastSeg, a python application that uses machine learning models to extract shoreines from satellite imagery
+- I'm currently developing Python-based applications at the USGS, focusing on leveraging machine learning models to analyze satellite imagery.
+- I am the lead developer of CoastSeg, a Python application that that utilizes machine learning to accurately extract shorelines from satellite imagery.
 - I 💚 python
+- I've got a passion for learning, building cool projects, and open source software
+
 
 ### 🌱 What I'm Learning
 - Lately, I've been research pixi and Docker to make research software environments more reprodible
