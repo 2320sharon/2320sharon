@@ -1,9 +1,12 @@
-## Hi there 👋
-### I'm Sharon and I'm a Software Developer
+# Hi there 👋
+## I'm Sharon and I'm a Software Developer
 - I'm currently developing python based applications with the USGS that use machine learning models to analyze satellite imagery
 - I developed CoastSeg, a python application that uses machine learning models to extract shoreines from satellite imagery
 - I 💚 python
+
+### 🌱 What I'm Learning
 - Lately, I've been research pixi and Docker to make research software environments more reprodible
+- I've also been researching cloud provider hosting solutions like AWS to host applications & websites I've built
 
 
 <!-- [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=2320sharon&theme=blue-green&show_icons=true)](https://github.com/2320sharon/github-readme-stats) -->
