@@ -8,6 +8,10 @@
 - Lately, I've been research pixi and Docker to make research software environments more reprodible
 - I've also been researching cloud provider hosting solutions like AWS to host applications & websites I've built
 
+### What's I'm Working On 💻
+- Improving CoastSeg
+- Creating repoducible environments for scienctific software
+- Improving and building out software for Satellite Derived Shorelines (SDS) workflows
 
 <!-- [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=2320sharon&theme=blue-green&show_icons=true)](https://github.com/2320sharon/github-readme-stats) -->
 <!-- [![Sharon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2320sharon&theme=blue-green)](https://github.com/2320sharon/github-readme-stats) -->
