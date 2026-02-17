@@ -7,8 +7,7 @@
 
 
 ### 🌱 What I'm Learning
-- Lately, I've been research pixi and Docker to make research software environments more reprodible
-- I've also been researching cloud provider hosting solutions like AWS to host applications & websites I've built
+- Lately, I've been researching segmentation models and SAR imagery applications
 
 ### 💻 What I'm Working On 
 - Improving [CoastSeg](https://github.com/SatelliteShorelines/CoastSeg/tree/main) [![DOI](https://joss.theoj.org/papers/10.21105/joss.06683/status.svg)](https://doi.org/10.21105/joss.06683)
